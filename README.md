@@ -2,6 +2,9 @@
 
 During the process of studying Demographic factors within best economically performing countries Geographic distribution of population is analysed. The study case is restricted between 1990-2015 according to the availability of data on the world bank website. In this project an dashboard is created and deployed using Heruko webservices. Top 10 World Economies Land Use, using Flask.
 
+## URL to Dashboard
+https://dataanalysisworldbank.herokuapp.com/
+
 ## Prerequisites
 
 To install the flask app, you need:
